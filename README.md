@@ -1,10 +1,11 @@
-# mgrc-personal-wiki
-[个人势魔法纪录番剧纪念网站](https://saturday-morning.github.io/mgrc-personal-wiki/magireco.html)
+# 个人势魔法纪录番剧纪念网站
+[mgrc-personal-wiki](https://saturday-morning.github.io/mgrc-personal-wiki/magireco.html)
 
-## 获取内容（2025年后可能有效）
-而要查看更新wiki的内容，请跳转到[release](https://github.com/Saturday-morning/mgrc-personal-wiki/releases)页面下载最新json文件，并拖动（你也可以使用“导入”功能，效果是一样的）到打开的[浏览器网页](https://saturday-morning.github.io/mgrc-personal-wiki/magireco.html)上。
-（网站只是一个壳子/皮肤/框架而已，而界面大致定下来了，近期应该不会有更新了）
+# 游戏国服动态bigfun备份
+(只有4月开始直到帐号注销的，因为bigfun只有这些，二月之前的可以去https://game.bilibili.com/magireco/news.html）
+剩下的可以参考[魔法纪录中文wiki](https://game.bilibili.com/magireco/news.html)
 
-## 交流
-目前处于早期阶段，暂时没人看呢，所以就……
-你可以联系：tamakiui@duck.com,不过我还没有测试其实际可用性（
+[bigfun](https://saturday-morning.github.io/mgrc-personal-wiki/%E5%9B%BD%E6%9C%8D%E5%8A%A8%E6%80%81bigfunbackup/)
+
+# 交流
+联系：tamakiui@duck.com
