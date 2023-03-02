@@ -1,7 +1,7 @@
-[mgrc-personal-wiki](https://saturday-morning.github.io/mgrc-personal-wiki/magireco.html)
+《魔法纪录》——番剧[wiki](https://saturday-morning.github.io/mgrc-personal-wiki/magireco.html)
 
-# 交流
-联系：tamakiui@duck.com
+# 邮箱
+tamakiui@duck.com
 
 -------------------------
 
