@@ -1,5 +1,5 @@
 # 描述
-个人创建维护的《魔法纪录》番剧[纪念网页/百科](https://saturday-morning.github.io/mgrc-personal-wiki/magireco-github-external-cloud.html)。
+个人创建维护的《魔法纪录》番剧[纪念网页/百科](https://saturday-morning.github.io/mgrc-personal-wiki/magireco-github-external-cloud.html)。（这是加速版，体积小，但是只能在线使用，完整版见下方）
 
 这个百科使用了tiddlywiki.
 此外，如果你有任何想法，欢迎丢到这个邮箱：tamakiui@duck.com
