@@ -10,8 +10,13 @@
 3. 将主站转移到bt上，真正实现无主机（一年更新一次，名称加上年份，而对外服务器只提供种子）。
 
 # 其它
-游戏国服动态bigfun备份：[bigfun](https://saturday-morning.github.io/mgrc-personal-wiki/%E5%9B%BD%E6%9C%8D%E5%8A%A8%E6%80%81bigfunbackup/)
+
+## 游戏国服动态bigfun备份
+
+[bigfun](https://saturday-morning.github.io/mgrc-personal-wiki/%E5%9B%BD%E6%9C%8D%E5%8A%A8%E6%80%81bigfunbackup/)
 
 (只有4月开始直到帐号注销的，因为bigfun只有这些，二月之前可以去https://game.bilibili.com/magireco/news.html ）
 剩下的可以参考[魔法纪录中文wiki](https://game.bilibili.com/magireco/news.html)
 
+## 完整版全功能网页
+需要一个更好的网络来查看：[纪念网页/百科](https://saturday-morning.github.io/mgrc-personal-wiki/magireco.html)。
