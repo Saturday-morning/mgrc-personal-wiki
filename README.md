@@ -1,7 +1,6 @@
 # 描述
 个人创建维护的《魔法纪录》番剧[纪念网页/百科](https://saturday-morning.github.io/mgrc-personal-wiki/magireco-lite.html)
 
---------------
 
 # 游戏国服动态bigfun备份
 [bigfun](https://saturday-morning.github.io/mgrc-personal-wiki/%E5%9B%BD%E6%9C%8D%E5%8A%A8%E6%80%81bigfunbackup/)
