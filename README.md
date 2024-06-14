@@ -1,5 +1,5 @@
 # 描述
-个人创建维护的《魔法纪录》番剧[纪念网页/百科](https://saturday-morning.github.io/mgrc-personal-wiki/magireco-superlite.html)
+个人创建维护的《魔法纪录》番剧[纪念网页/百科](https://saturday-morning.github.io/mgrc-personal-wiki/magireco-superlite.html) 
 
 
 # 游戏国服动态bigfun备份
